@@ -2,6 +2,7 @@ name: jl
 favicon: null
 layout_spectrum: 0.280540686333552
 typography_spectrum: 0.4029658129438758
+title: about
 cta:
   domain: null
   bucket: null
