@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[jl]]></title>
         <description><![CDATA[jl]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 23:29:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 31 Jan 2016 23:29:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Student at SSE (Handelshögskolan) in finance. </p>]]></description>
+            <link>https://thegrid.ai/jl/fd5fe05f-e1a5-4fbe-976b-197481509929/index.html</link>
+            <guid isPermaLink="false">fd5fe05f-e1a5-4fbe-976b-197481509929</guid>
+            <pubDate>Sun, 31 Jan 2016 23:29:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa7b69eb-70f5-4419-9aa5-84fda9027306.jpg">]]></description>
-            <link>undefinedc822607b-e49d-4c98-a69c-b527f06fb1e1/index.html</link>
+            <link>https://thegrid.ai/jl/c822607b-e49d-4c98-a69c-b527f06fb1e1/index.html</link>
             <guid isPermaLink="false">c822607b-e49d-4c98-a69c-b527f06fb1e1</guid>
             <pubDate>Sun, 31 Jan 2016 23:28:42 GMT</pubDate>
         </item>
