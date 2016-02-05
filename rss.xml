@@ -4,8 +4,15 @@
         <description><![CDATA[Student. Aspiring Data scientist. ]]></description>
         <link>https://thegrid.ai/jl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 11:48:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Feb 2016 11:48:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f9e1f74-0812-43c8-944d-40db03d4ab5b.jpg">]]></description>
+            <link>https://thegrid.ai/jl/1fc509c8-ede9-4824-951c-6a9cf124b0d4/index.html</link>
+            <guid isPermaLink="false">1fc509c8-ede9-4824-951c-6a9cf124b0d4</guid>
+            <pubDate>Fri, 05 Feb 2016 11:48:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>  Data Science is an interdisciplinary field about processes and systems to extract knowledge or insights from data (Wikipedia 2016-02-05).</p>]]></description>
