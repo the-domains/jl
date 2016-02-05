@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[jl]]></title>
-        <description><![CDATA[jl]]></description>
+        <title><![CDATA[about]]></title>
+        <description><![CDATA[about]]></description>
         <link>https://thegrid.ai/jl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 23:29:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Feb 2016 11:35:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/jl/fd5fe05f-e1a5-4fbe-976b-197481509929/index.html</link>
             <guid isPermaLink="false">fd5fe05f-e1a5-4fbe-976b-197481509929</guid>
             <pubDate>Sun, 31 Jan 2016 23:29:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c7fc793-803d-431a-8719-56c8434c04a6.png">]]></description>
+            <link>https://thegrid.ai/jl/562e015e-8e4d-40cb-9dc6-548e6954cd1f/index.html</link>
+            <guid isPermaLink="false">562e015e-8e4d-40cb-9dc6-548e6954cd1f</guid>
+            <pubDate>Fri, 05 Feb 2016 11:34:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
