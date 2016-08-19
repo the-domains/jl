@@ -4,7 +4,7 @@
         <description><![CDATA[Jacob Lindberg]]></description>
         <link>https://thegrid.ai/jl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 14:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 15:11:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -40,13 +40,6 @@
             <link>https://thegrid.ai/jl/562e015e-8e4d-40cb-9dc6-548e6954cd1f/index.html</link>
             <guid isPermaLink="false">562e015e-8e4d-40cb-9dc6-548e6954cd1f</guid>
             <pubDate>Fri, 05 Feb 2016 11:44:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa7b69eb-70f5-4419-9aa5-84fda9027306.jpg">]]></description>
-            <link>https://thegrid.ai/jl/c822607b-e49d-4c98-a69c-b527f06fb1e1/index.html</link>
-            <guid isPermaLink="false">c822607b-e49d-4c98-a69c-b527f06fb1e1</guid>
-            <pubDate>Fri, 05 Feb 2016 11:44:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
