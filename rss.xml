@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Student & Aspiring Data scientist. ]]></title>
-        <description><![CDATA[Student & Aspiring Data scientist. ]]></description>
+        <title><![CDATA[Jacob Lindberg]]></title>
+        <description><![CDATA[Jacob Lindberg]]></description>
         <link>https://thegrid.ai/jl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 20:45:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 14:20:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I spent the summer of 2015 as an intern at iZettle (Europe's competitor to Square). My job was to analyze data, the description in the job ad was</p>]]></description>
+            <link>https://thegrid.ai/jl/25b39679-3665-4192-bdea-33c6ea6e7088/index.html</link>
+            <guid isPermaLink="false">25b39679-3665-4192-bdea-33c6ea6e7088</guid>
+            <pubDate>Fri, 19 Aug 2016 14:20:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>CV Jacob Lindberg </p>]]></description>
             <link>https://thegrid.ai/jl/2e597a10-5cf6-4bcb-a1af-ddd56387ca7e/index.html</link>
             <guid isPermaLink="false">2e597a10-5cf6-4bcb-a1af-ddd56387ca7e</guid>
             <pubDate>Sun, 06 Mar 2016 20:44:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/45dcdf51-a352-422b-8a8d-8ce7b5dad4c7.jpg">]]></description>
-            <link>https://thegrid.ai/jl/25b39679-3665-4192-bdea-33c6ea6e7088/index.html</link>
-            <guid isPermaLink="false">25b39679-3665-4192-bdea-33c6ea6e7088</guid>
-            <pubDate>Fri, 05 Feb 2016 11:48:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
